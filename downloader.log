@@ -1,0 +1,1 @@
+2024-10-01 18:46:59,177 - Spotify OAuth setup error: No client_id. Pass it or set a SPOTIPY_CLIENT_ID environment variable.
